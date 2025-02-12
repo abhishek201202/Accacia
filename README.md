@@ -1,5 +1,5 @@
 ## Steps To Run The Code: 
-# 1. Run the following command to start server
+# 1. Run the following command to install the dependencies
 ```bash
 npm i express
 npm i axios
